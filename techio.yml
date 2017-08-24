@@ -1,5 +1,5 @@
-title: Simple Python template
+title: Simple Elixir template
 
 plan:
-  - title: Python Snippet
+  - title: Elixir Snippet
     statement: statement.md
